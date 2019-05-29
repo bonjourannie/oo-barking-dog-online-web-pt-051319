@@ -6,3 +6,8 @@ class Dog
 end
 
 fido = Dog.new 
+
+def name 
+  puts 
+  
+end
